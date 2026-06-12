@@ -34,7 +34,8 @@ class ChatbotUI:
                               "\n"
                               "Logs: \n"
                               "Loading (imugi) model...\n"
-                              "(imugi) model loaded succesfully!\n")
+                              "(imugi) model loaded succesfully!\n"
+                              "What would you like to do today?\n")
         self.chat_area.config(state='disabled')
 
         # Input frame
